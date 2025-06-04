@@ -24,7 +24,7 @@ Os arquivos de configuração do MiniKube são apenas criados nos repositórios 
 
 === "Postgres"
     ``` { .yaml .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/mmp052/account-service/refs/heads/main/k8s/k8s.yaml"
+    --8<-- "https://raw.githubusercontent.com/mmp052/db/refs/heads/main/k8s/k8s.yaml"
     ```
 
 ### Account Service
